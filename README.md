@@ -20,16 +20,21 @@ End the program
 
 ## PROGRAM:
 ```
+#Program to swap two values.
+#Developed by:ISWARYA.P
+#RegisterNumber:23013459
 x=input()
 y=input()
 temp=x
 x=y
 y=temp
 print("Swapped values are:",x,y)
+
 ```
 
 ## OUTPUT:
-![SWAP](https://github.com/Iswarya0580/Swapping-two-values/assets/149989171/fd581d38-6789-4717-8ee9-91f6d45875f9)
+![Alt text](SWAP.png)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
