@@ -33,7 +33,7 @@ print("Swapped values are:",x,y)
 ```
 
 ## OUTPUT:
-![Alt text](SWAP.png)
+![Alt text](SWAP-1.png)
 
 
 ## RESULT:
