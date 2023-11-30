@@ -16,7 +16,7 @@ Assign the value in temporary variable to the first variable
 ### Step 5: 
 Print both the values it would be interchanged
 ### Step 6: 
-End the program
+End the program.
 
 ## PROGRAM:
 ```
@@ -34,6 +34,7 @@ print("Swapped values are:",x,y)
 
 ## OUTPUT:
 ![Alt text](SWAP-1.png)
+
 
 
 ## RESULT:
